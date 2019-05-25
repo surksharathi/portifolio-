@@ -1,0 +1,23 @@
+
+
+
+body{
+
+   padding: 10px;
+   text-align: center;
+   background-color: bisque;
+    
+    font-size: 20px;
+    
+
+}
+h1,h2,h3{
+    font-family: 'Oswald', sans-serif;
+}
+.profile{
+
+    border-radius: 400px;
+    width: 150px;
+    height: 150px;
+}
+
